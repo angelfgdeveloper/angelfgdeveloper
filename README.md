@@ -21,7 +21,7 @@
     * PrimeNg
     * Angular Material
     * Un poco de Sass
-- 💞️ Actualemnte me encuentro trabajando como desarrollador en Gobierno del estado
+- 💞️ En estos momentos estoy trabajando como desarrollador en Gobierno del estado
 - 📫 Para más información me encuentro en Linkedin & Twitter como:
   * www.linkedin.com/in/luis-angel10121994
   * https://twitter.com/LuisAng43560790
