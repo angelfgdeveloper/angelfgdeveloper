@@ -15,7 +15,7 @@
   * Entity Framework (C sharp)
   * Flutter (Apps mobiles)
   * React JS (Libreria => Actualmente en aprendizaje) :D
-- 🌱 Actualmente ando aprendiendo React JS y reforzando mis habilidades de maquetació y estilos con HTML5 & CSS3
+- 🌱 Actualmente ando aprendiendo React JS y reforzando mis habilidades de maquetación y estilos con HTML5 & CSS3
   * Para el uso del UI (Interfaz de usuario) utilizo Preprocesadores de estilos como:
     * Bootstrap
     * PrimeNg
