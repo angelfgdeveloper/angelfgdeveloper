@@ -10,7 +10,6 @@
   * Angular
   * Node JS
   * Spring Boot
-  * Flutter
   * Vue JS (Framework progresivo)
   * Entity Framework (C sharp)
   * Flutter (Apps mobiles)
