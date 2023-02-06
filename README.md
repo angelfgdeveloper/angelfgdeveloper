@@ -1,4 +1,4 @@
-- 👋 Hola, Soy @angelfgdeveloper
+- 👋 Hola, Soy Luis Angel, también como: @angelfgdeveloper
 - 👀 Me gusta mucho el desarrollo de software tanto Front end como Backend, usando lenguajes como:
   * Typescript
   * JavaScript
