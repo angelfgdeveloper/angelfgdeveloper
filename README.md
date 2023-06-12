@@ -13,7 +13,7 @@
   * Vue JS (Framework progresivo)
   * Entity Framework (C sharp)
   * Flutter (Apps mobiles)
-  * React JS (Libreria => Actualmente en aprendizaje) :D
+  * React JS (Libreria) :D
 - 🌱 Actualmente ando aprendiendo React JS y reforzando mis habilidades de maquetación y estilos con HTML5 & CSS3
   * Para el uso del UI (Interfaz de usuario) utilizo Preprocesadores de estilos como:
     * Bootstrap
